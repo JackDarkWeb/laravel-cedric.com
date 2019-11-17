@@ -13,8 +13,6 @@
 
     <title>
        {{$title ?? ''}}
-        @if(View::hasSection('title'))|@endif
-        {{ config('app.name', 'Management Consulting Int') }}
     </title>
 
     {{-- Fonts --}}
@@ -40,9 +38,10 @@
 </head>
 <body>
 
+@include('layouts.nav')
 
         @yield('content')
 
-
+@include('layouts.footer')
 </body>
 </html>

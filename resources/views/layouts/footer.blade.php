@@ -1,77 +1,42 @@
+<footer class="py-5">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4 d-none d-md-block">
+        <h2 class="row"><a href="{{route('home')}}" class="nav-link rounded-circle py-5" style="background-color: #000;">CEDRIC</a></h2>
+      </div>
 
-<section class='' id='adresse-box'>
-    <div class='container py-5'>
-        <div class=''>
-            <h2 class='text-uppercase font-weight-bold text-center'>Nos adresses</h2>
-            <hr class='w-25 bg-primary my-4' style=''>
+      <div class="col-md-8">
+        <div class="row">
+          <div class="col-6 col-lg-3">
+            <a class="nav-link text-center text-md-left row a" href="{{route('coaching')}}">Coaching</a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a class="nav-link text-center text-md-left row a" href="{{route('formation')}}">Formations</a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a class="nav-link text-center text-md-left row a" href="{{route('shop')}}">La boutique</a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a class="nav-link text-center text-md-left row a" href="{{route('event')}}">Événements</a>
+          </div>
         </div>
 
-        <div class="card-deck">
-            <div class="card mb-4" style='background: #E0ECF8;'>
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Benin Office</h5>
-                <p class="card-text"><i class="fa fa-phone text-primary" aria-hidden="true"></i> <a href="tel:+22962632723">+22962632723</a> <a href="tel:+22966455807">+22966455807</a></p>
+        <hr class="row bg-white my-5">
 
-                <p class="card-text"><i class="fa fa-envelope-o text-primary" aria-hidden="true"></i> <a href="mailto:hartmanhounye@yahoo.fr">hartmanhounye@yahoo.fr</a> </p>
-                </div>
+        <div class="row">
+          <div class="col-md-4 col-sm-6 text-white">© 2018 - <?=date('Y')?> Mc Cedric Ent.</div>
+          <div class="col-md-4 col-sm-6"><a href="#">Confidentialité et Vie privée</a></div>
+          <div class="col-md-4 col-sm-12">
+            <div class="row">
+              <div class="ml-md-auto mx-sm-auto ml-2 mt-3 mt-md-0">
+                <a class="mr-4" href="https://www.facebook.com/Cedric-H-Agossou-Officiel-2078390082178427/" title="Cedric-H-Agossou-Officiel" target="_blank"><i class="fa fa-facebook" aria-hidden="true" style="font-size: 19px; color: #3B5998; background-color: #fff; padding: 7px 12px; border-radius: 100px;"></i></a>
+
+                <a class="" href="https://www.youtube.com/channel/UC3dHtraLLx03Tra5yhYffew/featured?view_as=subscriber" title="Cedric Agossou youtube" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true" style="font-size: 19px; color: #CC181E; background-color: #fff; padding: 7px ; border-radius: 100px;"></i></a>
+              </div>
             </div>
-
-            <div class='w-100 d-md-none'></div>
-            
-            <div class="card  mb-4" style='background: #E0ECF8;'>
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Burkina Faso Office</h5>
-                <p class="card-text"><i class="fa fa-phone text-primary" aria-hidden="true"></i> <a href="tel:+22670462801">+22670462801</a> </p>
-
-                <p class="card-text"><i class="fa fa-whatsapp text-success" aria-hidden="true"></i> <a href="https://api.whatsapp.com/send?phone=0022670462801">+22664433186</a> </p>
-
-                <p class="card-text"><i class="fa fa-envelope-o text-primary" aria-hidden="true"></i> <a href="mailto:hartmanhounye@yahoo.fr">hartmanhounye@yahoo.fr</a> </p>
-                </div>
-            </div>
-            
-            <div class='w-100 d-xl-none'></div>
-
-            <div class="card  mb-4" style='background: #E0ECF8;'>
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Niger Office</h5>
-                <p class="card-text"><i class="fa fa-phone text-primary" aria-hidden="true"></i> <a href="tel:+22788841558">+22788841558</a> </p>
-
-                <p class="card-text"><i class="fa fa-envelope-o text-primary" aria-hidden="true"></i> <a href="mailto:hartmanhounye@yahoo.fr">hartmanhounye@yahoo.fr</a> </p>
-                </div>
-            </div>
-
-            <div class='w-100 d-md-none'></div>
-
-            <div class="card  mb-4" style='background: #E0ECF8;'>
-                <div class="card-body">
-                <h5 class="card-title font-weight-bold">Senegal Office</h5>
-                <p class="card-text"><i class="fa fa-phone text-primary" aria-hidden="true"></i> <a href="tel:+221773450991">+221773450991</a> </p>
-
-                <p class="card-text"><i class="fa fa-envelope-o text-primary" aria-hidden="true"></i> <a href="mailto:hartmanhounye@yahoo.fr">hartmanhounye@yahoo.fr</a> </p>
-                </div>
-            </div>
+          </div>
         </div>
+      </div>
     </div>
-</section>
-
-
-<section id='footer' class='py-5' style='margin-top: 100px; background: #070719;'>
-    <footer class='container text-white'>
-        <div class='row'>
-            <div class='col-md-6 text-center text-md-left'>
-                <p class=''>Copyright © <?=date('Y')?> - Management Consulting Int</p>
-                <p class=''> Tous droits réservés</p>
-            </div>
-            
-
-            <div class='col-md-6'>
-                <div class='row'>
-                    <div class='m-auto'>
-                        <a href='https://api.whatsapp.com/send?phone=0022670462801' class='text-center mr-3 btn btn-light'> <i class="fa fa-whatsapp fa-2x text-success" aria-hidden="true"></i> <span class=''>whatsapp</span></a>
-                        <a href='' class='text-center btn btn-light'><i class="fa fa-facebook-square fa-2x text-primary" aria-hidden="true"></i> <span class=''>facebook</span></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-</section>
+  </div>
+</footer>

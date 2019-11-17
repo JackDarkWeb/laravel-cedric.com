@@ -2,8 +2,68 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb3d4a1-ed43-44dd-bcd4-d4edac0ca09a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/9RdVGN.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/FallyIpupa.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/FormationPro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181212-WA0094.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181212-WA0098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181212-WA0100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181222-WA0040.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181222-WA0041.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181222-WA0042.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181222-WA0043.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181222-WA0044.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181224-WA0003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0024.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0025.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0026.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0028.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/IMG-20181225-WA0029.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/SearchLeeds 2018 Official Event Video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/centreconsulaire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/find_your_purpose_1200x627.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/images78547.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/relationclientnewimahe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/rtyyw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/shakespeare_time_title_motivation_85147_1920x1080.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/slide_bg_coaching_personnel_confiance_en_soi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/images/teleconseilliere_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/logout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/reset_password.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/singin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/singup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/verify_code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/app/js/wow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/audios.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/books.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/boutique.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/coaching.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/contact.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/events.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/formations.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home/videos.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/piles/scripts.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/piles/styles.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/default.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/footer.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/nav-page.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/nav.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -111,11 +171,25 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1TWL5rZ5uNfZmjonTWKCEIBkleC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/wamp/bin/php/php7.3.5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/home" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\public\app\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\resources\views\home" />
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\public\app\images" />
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\public\app\js" />
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\public\app\css" />
+      <recent name="D:\OSPanel\domains\laravel-cedric.com\resources\views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -140,6 +214,9 @@
       <option name="presentableId" value="Default" />
       <updated>1573570724975</updated>
       <workItem from="1573571056079" duration="1298000" />
+      <workItem from="1573633825615" duration="1027000" />
+      <workItem from="1573972492029" duration="10219000" />
+      <workItem from="1574009176783" duration="5453000" />
     </task>
     <servers />
   </component>
@@ -151,7 +228,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
